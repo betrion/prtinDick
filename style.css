@@ -3,8 +3,8 @@ body {
 }
 form {
   position: absolute;
-  left: 50%;
-  right: 50%;
+  left: 40%;
+  right: 40%;
   top: 25%;
 }
 input {
