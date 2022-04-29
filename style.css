@@ -1,0 +1,21 @@
+body {
+  background-color: pink;
+}
+form {
+  position: absolute;
+  left: 50%;
+  right: 50%;
+  top: 25%;
+}
+input {
+  color: blue;
+}
+button {
+}
+#result {
+  position: absolute;
+  left: 50%;
+  right: 35%;
+  top: 55%;
+  background-color: beige;
+}
